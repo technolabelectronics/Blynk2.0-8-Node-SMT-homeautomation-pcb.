@@ -1,0 +1,1 @@
+# Blynk2.0-8-Node-SMT-homeautomation-pcb.
