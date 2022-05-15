@@ -1,5 +1,8 @@
 # Bluetooth-Manual-Controlled-8-Node-SMT-Homeautomation-PCB.
-Visit JLCPCB ( https://jlcpcb.com/RAT )
+
+PCBA from $0 (Free Setup, Free Stencil) https://jlcpcb.com/RNA
+Discount Coupon Code valid forever 【JLC-REBE 】
+
 # Introduction
 In this post we are going to make Android app bluetooth controlled homeautomation system,
 
