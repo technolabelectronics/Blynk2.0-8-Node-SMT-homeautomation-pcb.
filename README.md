@@ -4,15 +4,9 @@ PCBA from $0 (Free Setup, Free Stencil) https://jlcpcb.com/RNA
 Discount Coupon Code valid forever 【JLC-REBE 】
 
 # Introduction
-In this post we are going to make Android app bluetooth controlled homeautomation system,
+In this home-automation project we can control our home-appliances via BLYNK smartphone application , BLYNK Web-dashboard from anywhere in this world.
+and also we can control our home-appliances via manual switch buttons and we can also monitor the real time status in the BLYNK app.
 
-For making of this homeautomation system I will use my 8 node SMT homeautomation pcb and coustom design android app... everything is available in this repository.
-you can download from there if you wish to make this homeautomation system.
-
-Best part of this project is that we don't need any internet connection or any local server to connect android application and esp32. 
-App will directly communicate to the esp32 via bluetooth.
-
-The only down side of this homeautomation system is , it will only work in local range.
 
 If you want to purchase this 8 node SMT homeautomation pcb then connect me.
 Email- technolabcreationindia@gmail.com
@@ -34,9 +28,8 @@ Once you have your Gerber files, you can order the PCB. Follow the next steps.
 After uploading the zip file, you’ll see a success message at the bottom if   the file is successfully uploaded. You can review the PCB in the Gerber viewer to make sure everything is good.
 jlcpcb can grab all the PCB details and automatically fills them for you.
 
-# Download link for Gerber file, Schematic and apk file for app.
-https://bit.ly/3qfIDPj
+
 # Video tutorial.
-https://youtu.be/nenC2SwziYo
+https://youtu.be/1TAzpAdzwro
  
 
