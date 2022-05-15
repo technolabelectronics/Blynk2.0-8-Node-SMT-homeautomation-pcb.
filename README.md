@@ -1,4 +1,4 @@
-# Bluetooth-Manual-Controlled-8-Node-SMT-Homeautomation-PCB.
+# Blynk 2.0 and 8-Node-SMT-Homeautomation-PCB.
 
 PCBA from $0 (Free Setup, Free Stencil) https://jlcpcb.com/RNA
 Discount Coupon Code valid forever 【JLC-REBE 】
